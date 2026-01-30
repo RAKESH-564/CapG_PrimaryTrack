@@ -10,3 +10,6 @@ Execution: hands-on coding + mini web task
 # Day-3:
 Understanding CSS selectors and XPath for locating web elements
 Execution: hands-on coding + mini web task
+# Day-4:
+Mini web project: building and analyzing a simple HTML/CSS-based page
+Execution: hands-on coding + mini web task
